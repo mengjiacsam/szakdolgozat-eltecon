@@ -5,7 +5,7 @@ library(ggplot2)
 library(RColorBrewer)
 library(interplot)
 require(ggthemes)
-data <- fread("C:/Users/Csaa/Documents/szakdoga_új/R-hez táblázít/bizalomnelkuli.csv")
+
 data <- fread("C:/Users/Csaa/Documents/szakdoga_új/R-hez táblázít/mindennel.csv")
 # Lineáris regressziós ábrák
 # Megtakarítás és türelem
